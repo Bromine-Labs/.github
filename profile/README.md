@@ -12,5 +12,5 @@
 </p>
 
 ### About
-Bromine Labs is a new organization with only one person, made to become the biggest organization. It already has two services: Bromine, and browser.nvim. And as of Tuesday, Augest 2025, Bromine is the only site with updated scramjet.
+Bromine Labs is a new organization with only one person, made to become the biggest organization. It already has two services: Bromine, and browser.nvim. And as of Tuesday, September 2025, Bromine is the only site with updated scramjet.
 
